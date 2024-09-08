@@ -14,17 +14,12 @@ Os tópicos abaixo respondem, respectivamente, aos ítens apresentados no enunci
 ### 1. A que projeto se refere e inclua o link:
 O projeto escolhido refere-se à **implementação das ferramentas de S&OP (Sales & Operations Planning)** no sistema **ERP SAP** da empresa **Fallgatter**, uma metalúrgica localizada em Cachoeirinha (RS).
 
-**Link**: [clique aqui](./documents/Iris-Hollick_.pdf)
+**Link**: [clique aqui para acessar o documento neste repositório](./documents/Iris-Hollick_.pdf) ou  [aqui para acessar como página na web](https://repositorio.jesuita.org.br/bitstream/handle/UNISINOS/5867/Iris%20Hollick_.pdf) 
 
 
 ### 2. Principais elementos do plano:
-Os principais elementos do plano de cutover neste projeto incluem:
 
-- **Mapeamento de Processos**: Mapeamento dos processos antigos e novos no sistema para entender como a nova solução de S&OP será integrada.
-- **Configuração e Testes**: Configuração das ferramentas de S&OP e a realização de testes unitários e integrados para garantr que os processos funcionem de forma adequada.
-- **Treinamento de Usuários**: Treinamento da equipe do PCP (Planejamento e Controle da Produção) e criação de manuais para facilitar o uso das ferramentas novas.
-- **Execução do Plano de Cutover**: Planejamento detalhado das atividades necessárias para a transição das atuais operações para as novas funcionalidades do S&OP, seguido pela execução durante o Go-Live.
-- **Suporte Pós-Go-Live**: Acompanhamento presencial e suporte técnico durante a primeira semana após a entrada em operação das novas funcionalidades.
+  Neste projeto, os principais elementos do plano de cutover abrangem: o mapeamento de processos, a configuração e os testes, o treinamento de usuários, a execução do plano e o suporte pós transição (go-live). O mapeamento é realizado nos processos antigos e novos no sistema para entender como a nova solução (de S&OP) será integrada. Já a configuração das ferramentas de S&OP e a realização de testes unitários ocorre para entender se aquela teve o resultado desejado e se o sistema está funcionando da maneira correta. O treinamento da equipe do PCP (planejamento do Controle de Produção) e acriação de maneuais tem por fim facilitar o uso do novo sistema implementado. Outro ponto importante é que neste projeto é visível um planejamento detalhado das atividades necessárias para a transição das operações atuais para o novo sistema e todo o processo de Go-live. Além disso, também pode-se destacar o suporte pós-go-live, dado que na primeira semana pós transição haverá um acompanhamento e suporte técninco do time de implementação para caso algo não saia como o planejado ou surjam dúvidas. 
 
 ### 3. Pontos positivos e negativos:
 **Pontos Positivos**:
